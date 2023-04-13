@@ -6,6 +6,3 @@ for number in range(500, 601):
 			break
 	if(isPrime):
 		print(number)
-	
-		
-	 
